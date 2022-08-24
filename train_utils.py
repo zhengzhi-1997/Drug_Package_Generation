@@ -6,7 +6,6 @@ import torch
 import torch.utils.data as Data
 import numpy as np
 import data_utils
-import eval_utils
 import copy
 import codecs
 import time
