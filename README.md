@@ -1,5 +1,5 @@
 # Interaction-aware Drug Package Recommendation via Policy Gradient
-This repository contains the source code for the paper `Interaction-aware Drug Package Recommendation via Policy Gradient`, presented at [TOIS 2022](nips.cc).
+This repository contains the source code for the paper `Interaction-aware Drug Package Recommendation via Policy Gradient`, presented at TOIS 2022.
 ```
 @article{10.1145/3511020,
 author = {Zheng, Zhi and Wang, Chao and Xu, Tong and Shen, Dazhong and Qin, Penggang and Zhao, Xiangyu and Huai, Baoxing and Wu, Xian and Chen, Enhong},
@@ -14,7 +14,6 @@ note = {Just Accepted},
 journal = {ACM Trans. Inf. Syst.},
 month = {jan},
 keywords = {package recommendation, drug recommendation, reinforcement learning, graph neural network}
-}
 }
 ```
 
